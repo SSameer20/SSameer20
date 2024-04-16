@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Shaik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- I’m currently working on **project Beep**
+- I’m currently working on **Docker Automation**
 
 - 🌱 I’m currently learning **.NET, C# and docker**
 
