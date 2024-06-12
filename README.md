@@ -1,5 +1,5 @@
-# Hii, I'm Sameer
-I’m currently working on Docker Automation<br>I’m currently learning .Net<br>Ask me about AWS and C++<br>
+# Hi, I'm Sameer
+I'm a passionate web developer and a technology enthusiast with hands-on experience in creating responsive and visually appealing web interfaces. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
 
 
 # 💻 Tech Stack:
