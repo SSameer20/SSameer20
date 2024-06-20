@@ -1,5 +1,5 @@
 # Hi, I'm Sameer
-Exploring cloud solutions with integrating applications with cloud technologies like ec2, vpc, rds and ELB many more. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
+Exploring cloud technology with integrating web applications in cloud technologies like ec2, vpc, rds and ELB many more. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
 
 
 
