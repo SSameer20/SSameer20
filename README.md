@@ -1,5 +1,6 @@
 # Hi, I'm Sameer
-I'm a passionate web developer and a technology enthusiast with hands-on experience in creating responsive and visually appealing web interfaces. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
+Exploring cloud solutions with integrating applications with cloud technologies like ec2, vpc, rds and ELB many more. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
+
 
 
 # 💻 Tech Stack:
