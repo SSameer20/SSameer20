@@ -1,5 +1,5 @@
 # Hi, I'm Sameer
-Exploring cloud technology with integrating web applications in cloud technologies like ec2, vpc, rds and ELB many more. My expertise lies in leveraging modern web technologies to build scalable and efficient applications. I enjoy collaborating with teams and contributing to innovative projects that solve real-world problems.
+I am deeply committed to blockchain and focused on creating next-generation products with TypeScript, integrating advanced technologies like AI, machine learning, and blockchain.
 
 
 
