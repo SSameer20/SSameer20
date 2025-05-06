@@ -5,7 +5,6 @@
 I'm a passionate full-stack developer focused on crafting next-generation decentralized applications by integrating Blockchain, AI, and Machine Learning technologies. With a strong foundation in TypeScript and modern web technologies, I enjoy solving real-world problems and contributing to the open-source community.
 </p>
 
----
 
 ## 🚀 Tech Stack
 
@@ -52,15 +51,13 @@ I'm a passionate full-stack developer focused on crafting next-generation decent
 ![DSA](https://img.shields.io/badge/dsa-%2300ADD8.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![System Design](https://img.shields.io/badge/system%20design-%23FF8800.svg?style=for-the-badge&logo=architect&logoColor=white)
 
----
+
 
 ## 🧠 Currently Exploring
 - 🔗 Solana & Ethereum Blockchain Development  
 - 🤖 AI-powered DApps  
 - ⚡ Web3 Wallet Infrastructure  
 - 📚 Data Structures & System Design  
-
----
 
 ## 🔥 GitHub Stats
 
@@ -72,15 +69,13 @@ I'm a passionate full-stack developer focused on crafting next-generation decent
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSameer20&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SSameer20&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
+
 
 ## 📌 Featured Projects
 - [DeFarm](https://github.com/SSameer20/DeFarm) – Decentralized Harvesting Platform based on Tokenization
@@ -88,7 +83,7 @@ I'm a passionate full-stack developer focused on crafting next-generation decent
 - [BlockVault](https://github.com/SSameer20/BlockVault) – Decentralized crypto wallet (Solana + Ethereum)
 
 
----
+
 
 ## 📫 Connect with Me
 
@@ -97,7 +92,6 @@ I'm a passionate full-stack developer focused on crafting next-generation decent
 - 🐙 [GitHub](https://github.com/SSameer20)
 - 📧 sameer.kattubadi@gmail.com
 
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SSameer20&icon=0&color=0" alt="Visitor Count"/>
