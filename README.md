@@ -93,6 +93,4 @@ I'm a passionate full-stack developer focused on crafting next-generation decent
 - 📧 sameer.kattubadi@gmail.com
 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SSameer20&icon=0&color=0" alt="Visitor Count"/>
-</p>
+
